@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406851630013",
+    "project_id": "celularcito-457d4",
+    "storage_bucket": "celularcito-457d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406851630013:android:095db2f624d85d4bfa18d4",
+        "android_client_info": {
+          "package_name": "com.example.proyectoclasepruebita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406851630013-sm8ugc376o08b1o2j3aun4tqqqjuarfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoj4S9mtZzQcwEmVUqX7W3bO87je3FBNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406851630013-sm8ugc376o08b1o2j3aun4tqqqjuarfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
